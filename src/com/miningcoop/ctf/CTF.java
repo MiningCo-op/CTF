@@ -12,4 +12,5 @@ public class CTF extends JavaPlugin{
 		getLogger().info("CTF plugin disabled");
 	}
 	//testing
+	//more testing
 }
